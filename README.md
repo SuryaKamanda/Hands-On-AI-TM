@@ -1,5 +1,5 @@
 Untuk download file code dan seluruh datanya kalian bisa melalui,
 Code > Download ZIP > Extract ZIP
-<img width="1381" height="1021" alt="image" src="https://github.com/user-attachments/assets/f30efa2d-90f5-424f-8aff-9b4ceded3692" />
+<img width="828" height="613" alt="image" src="https://github.com/user-attachments/assets/f30efa2d-90f5-424f-8aff-9b4ceded3692" />
 
 Jika sudah punya github, kalian bisa git clone https://github.com/SuryaKamanda/Hands-On-AI-TM.git ke local PC kalian.

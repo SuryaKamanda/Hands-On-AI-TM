@@ -6,4 +6,4 @@ Code > Download ZIP > Extract ZIP
 
 
 
-Jika sudah punya github, kalian bisa git clone https://github.com/SuryaKamanda/Hands-On-AI-TM.git ke local PC kalian.
+Jika sudah punya github, kalian bisa git clone ke local PC kalian.
